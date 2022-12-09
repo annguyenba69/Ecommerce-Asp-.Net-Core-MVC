@@ -1,0 +1,2357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EcommerceWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EcommerceWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\admin\\js\\app.js",
+      "PackagePath": "staticwebassets\\admin\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\admin\\js\\editor.js",
+      "PackagePath": "staticwebassets\\admin\\js\\editor.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\posts\\1a0fdfa8127b4a69908c1108aebfc420.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\1a0fdfa8127b4a69908c1108aebfc420.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\posts\\3e71ea05f98b4850924e20e8e07a664d.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\3e71ea05f98b4850924e20e8e07a664d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\posts\\f4886434fa0e4666bf8212602bc29671.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\f4886434fa0e4666bf8212602bc29671.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\0431c2ba4fde41218742b6dd6d7a178c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0431c2ba4fde41218742b6dd6d7a178c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\0a1521b2c5e34387bee6311faef09854.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0a1521b2c5e34387bee6311faef09854.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\30f25ad6f267403fafa77be72eeb357a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\30f25ad6f267403fafa77be72eeb357a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\3b0f26ef96384f7386aff26fb672af5d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3b0f26ef96384f7386aff26fb672af5d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\891d5108178f4523a1285e0a14fabd7b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\891d5108178f4523a1285e0a14fabd7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\99851f11771e4e12af1dc7da3a2fbbe8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\99851f11771e4e12af1dc7da3a2fbbe8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\9c19d31c0c904e67aa909c5bbb651dc1.jpeg",
+      "PackagePath": "staticwebassets\\images\\products\\9c19d31c0c904e67aa909c5bbb651dc1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\products\\ebab7d0ae2324496bbbe57cc3bf7424b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ebab7d0ae2324496bbbe57cc3bf7424b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\slides\\a21174da36a64eafad5d6871e65aa3b5.jpg",
+      "PackagePath": "staticwebassets\\images\\slides\\a21174da36a64eafad5d6871e65aa3b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\images\\slides\\ff89add1a8914cb19a5be3eea6d7aaa0.jpg",
+      "PackagePath": "staticwebassets\\images\\slides\\ff89add1a8914cb19a5be3eea6d7aaa0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\js\\editor.js",
+      "PackagePath": "staticwebassets\\js\\editor.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\user\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\user\\assets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\user\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\user\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\annimex-icons0f29.eot",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\annimex-icons0f29.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\annimex-icons0f29.svg",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\annimex-icons0f29.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\annimex-icons0f29.ttf",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\annimex-icons0f29.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\annimex-icons0f29.woff",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\annimex-icons0f29.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\user\\assets\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\about1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\about2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\about2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\about3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\about3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\apple-touch-icon-57x57.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\apple-touch-icon-57x57.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\arrow-select.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\arrow-select.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\autoparts\\categories-img1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\autoparts\\categories-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\autoparts\\categories-img2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\autoparts\\categories-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\autoparts\\categories-img3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\autoparts\\categories-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\autoparts\\categories-img4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\autoparts\\categories-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\autoparts\\categories-img5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\autoparts\\categories-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\autoparts\\categories-img6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\autoparts\\categories-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\autoparts\\categories-img7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\autoparts\\categories-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\autoparts\\categories-img8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\autoparts\\categories-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-sml-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-sml-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-sml-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-sml-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-sml-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-sml-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\blog-post-sml-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\blog-post-sml-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cards.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cards.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cat-men.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cat-men.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cat-women.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cat-women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cat-women1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cat-women1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cat-women2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cat-women2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cat-women3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cat-women3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\check.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\check.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\accessories.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\accessories.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\bag.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\bag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection-page1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection-page1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection-page2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection-page2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection-page3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection-page3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection-page4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection-page4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection-page5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection-page5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection-page6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection-page6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection-page7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection-page7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection-page8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection-page8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\collection4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\collection4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\cosmetic.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\cosmetic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\cosmetic1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\cosmetic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\cosmetic2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\cosmetic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\cosmetic3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\cosmetic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\fashion.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\fashion.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home10-sm-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home10-sm-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home10-sm-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home10-sm-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home10-sm-banner3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home10-sm-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home10-sm-banner4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home10-sm-banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner10.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home11-grid-sm-banner9.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home11-grid-sm-banner9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home12-category-bnr1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home12-category-bnr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home12-category-bnr2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home12-category-bnr2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home12-category-bnr3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home12-category-bnr3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home13-autoparts1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home13-autoparts1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home13-autoparts2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home13-autoparts2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home13-autoparts3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home13-autoparts3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home13-autoparts4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home13-autoparts4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home13-autoparts5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home13-autoparts5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home13-autoparts6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home13-autoparts6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home14-bags-sm-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home14-bags-sm-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home14-bags-sm-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home14-bags-sm-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home14-bags-sm-banner3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home14-bags-sm-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home14-bags-sm-banner4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home14-bags-sm-banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home14-bags-sm-banner5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home14-bags-sm-banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home15-lookbook1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home15-lookbook1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\home15-lookbook2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\home15-lookbook2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\image-banner-home15-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\image-banner-home15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\image-banner-home15-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\image-banner-home15-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\image-banner-home15-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\image-banner-home15-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\image-banner-home15-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\image-banner-home15-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\image-banner-home15-5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\image-banner-home15-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\jewellery-collection1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\jewellery-collection1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\jewellery-collection2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\jewellery-collection2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\jewellery-collection3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\jewellery-collection3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\jewellery-collection4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\jewellery-collection4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\jewellery-collection5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\jewellery-collection5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\jewellery-collection6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\jewellery-collection6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\jewellry.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\jewellry.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\modern-fi-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\modern-fi-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\modern-fi-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\modern-fi-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\modern-fi-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\modern-fi-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\modern1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\modern1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\modern2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\modern2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\modern3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\modern3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\modern4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\modern4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\modern5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\modern5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\shoes-collection1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\shoes-collection1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\shoes-collection2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\shoes-collection2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\shoes-collection3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\shoes-collection3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\collection\\shoes.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\collection\\shoes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\coming-soon.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\coming-soon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image10-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image10.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image11-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image11.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image12-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image12.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image13-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image13.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image14-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image14.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image15-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image15.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image3-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image4-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image5-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image6-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image7-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image8-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image9-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\product-image9.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\product-image9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\cosmetic-product\\single-product.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\cosmetic-product\\single-product.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\credit-card.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\credit-card.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\default-skin.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\diffrent-style-swatches.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\diffrent-style-swatches.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\dollar.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\dollar.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\fast-fashion_600x.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\fast-fashion_600x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\grid.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\grid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\home3-small-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\home3-small-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\home3-small-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\home3-small-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\home3-small-banner3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\home3-small-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products3-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products4-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products5-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products6-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\jewellery-products\\jewellery-products6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\jewellery-products\\jewellery-products6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\list.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\list.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lock.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\logo-text.svg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\logo-text.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\logo\\brandlogo1.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\logo\\brandlogo1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\logo\\brandlogo2.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\logo\\brandlogo2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\logo\\brandlogo3.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\logo\\brandlogo3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\logo\\brandlogo4.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\logo\\brandlogo4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\logo\\brandlogo5.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\logo\\brandlogo5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\logo\\brandlogo6.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\logo\\brandlogo6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-10.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-11.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\lookbook-9.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\lookbook-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\megamenu-bg1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\megamenu-bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\megamenu-bg2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\megamenu-bg2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\newsletter-img.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\newsletter-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\order-icon.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\order-icon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\parallax-banners\\cosmetic-parallax.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\parallax-banners\\cosmetic-parallax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\parallax-banners\\home13-car-parts.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\parallax-banners\\home13-car-parts.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\parallax-banners\\home14-bags-parallax.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\parallax-banners\\home14-bags-parallax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\parallax-banners\\home9-parallax-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\parallax-banners\\home9-parallax-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\parallax-banners\\home9-parallax-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\parallax-banners\\home9-parallax-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\parallax-banners\\home9-parallax-banner3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\parallax-banners\\home9-parallax-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\parallax-banners\\jewellery-parallax.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\parallax-banners\\jewellery-parallax.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\parallax-banners\\parallax-banner.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\parallax-banners\\parallax-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\payment-img.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\payment-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\phone-call.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\phone-call.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big10.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible-big9.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible-big9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible0.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible7-big.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible7-big.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\camelia-reversible9.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\camelia-reversible9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\cape-dress-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\cape-dress-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\cape-dress-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\cape-dress-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\cape-dress-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\cape-dress-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\cape-dress-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\cape-dress-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\cape-dress-5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\cape-dress-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\cape-dress-6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\cape-dress-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\cape-dress-7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\cape-dress-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\cape-dress-8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\cape-dress-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-labels1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-labels1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-labels2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-labels2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-labels4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-labels4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-labels5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-labels5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-labels6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-labels6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-dropdown1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-dropdown1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-dropdown2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-dropdown2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-dropdown3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-dropdown3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-dropdown4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-dropdown4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-image-swatch1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-image-swatch1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-image-swatch2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-image-swatch2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-image-swatch3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-image-swatch3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-image-swatch4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-image-swatch4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-image-swatch5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-image-swatch5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-image-swatch6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-image-swatch6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\product-with-right-thumbs-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\variant1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\variant1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\variant1-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\variant1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\variant1-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\variant1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\variant1-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\variant1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\variant1-5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\variant1-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-detail-page\\variant1-6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-detail-page\\variant1-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\auto-parts-p-img1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\auto-parts-p-img1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\auto-parts-p-img1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\auto-parts-p-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\auto-parts-p-img2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\auto-parts-p-img2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\auto-parts-p-img2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\auto-parts-p-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\auto-parts-p-img3-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\auto-parts-p-img3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\auto-parts-p-img3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\auto-parts-p-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\auto-parts-p-img4-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\auto-parts-p-img4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\auto-parts-p-img4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\auto-parts-p-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img3-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img4-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img5-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img6-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img7-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img8-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\bags-p-img8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\bags-p-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\cape-dress-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\cape-dress-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\cape-dress-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\cape-dress-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product1-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product4-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product5-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product6-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product7-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home15-product7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home15-product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product3-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product4-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product5-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product6-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\home7-product6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\home7-product6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\mini-product-img.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\mini-product-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\mini-product-img1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\mini-product-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\mini-product-img2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\mini-product-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\mini-product-img3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\mini-product-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image-stw1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image-stw1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image-stw1-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image-stw1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image-stw1-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image-stw1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image-stw1-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image-stw1-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image-stw1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image-stw1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image-swt2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image-swt2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image-swt2-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image-swt2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image-swt2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image-swt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image1-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image10-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image10-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image10.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image11-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image11-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image11.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image12-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image12-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image12.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image13-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image13-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image13.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image14-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image14-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image14.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image15-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image15-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image15.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image16-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image16-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image16.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image17-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image17-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image17.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image18-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image18-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image18.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image19-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image19-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image19.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image20-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image20-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image20.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image21-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image21-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image21.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image22-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image22-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image22.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image23-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image23-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image23.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image24-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image24-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image24.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image25-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image25-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image25.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image26-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image26-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image26.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image27-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image27-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image27.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image28-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image28-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image28.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image29-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image29-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image29.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image3-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image30-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image30-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image30.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image31-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image31-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image31.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image32-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image32-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image32.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image33-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image33-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image33.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image34-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image34-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image34.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image35-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image35-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image35.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image36-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image36-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image36.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image37-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image37-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image37.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image38-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image38-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image38.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image39-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image39-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image39.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image4-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image40-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image40-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image40.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image41-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image41-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image41.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image42-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image42-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image42.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image43-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image43-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image43.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image44-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image44-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image44.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image45-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image45-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image45.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image46-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image46-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image46.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image47-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image47-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image47.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image48-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image48-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image48.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image49-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image49-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image49.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image5-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image50-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image50-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image50.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image6-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image7-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image7.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image8-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image8.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image9-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\product-image9.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\product-image9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant2-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant2-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant2-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant2-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant2-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant2-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant3-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant3-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant3-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant3-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant4-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant4-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant4-3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant4-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant4-4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant4-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant5-1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant5.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\product-images\\variant6.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\product-images\\variant6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\recent-commnet-img.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\recent-commnet-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\reliable.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\reliable.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\return-mini.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\return-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\return.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\return.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\safepayment.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\safepayment.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\shield.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\side-banner-2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\side-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\size.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\size.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\belle-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\belle-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\belle-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\belle-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home11-grid-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home11-grid-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home11-grid-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home11-grid-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home12-category-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home12-category-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home12-category-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home12-category-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home13-auto-parts-bnr1-mobile.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home13-auto-parts-bnr1-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home13-auto-parts-bnr1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home13-auto-parts-bnr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home14-bags-bnr1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home14-bags-bnr1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home2-default-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home2-default-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home2-default-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home2-default-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home3-banner-mobile.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home3-banner-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home3-banner.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home3-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home4-banner.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home4-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home5-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home5-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home5-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home5-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home7-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home7-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home7-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home7-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home8-jewelry-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home8-jewelry-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home8-jewelry-banner2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home8-jewelry-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\slideshow-banners\\home9-banner1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\slideshow-banners\\home9-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\swatches\\color-img1.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\swatches\\color-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\swatches\\color-img2.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\swatches\\color-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\swatches\\color-img3.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\swatches\\color-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\swatches\\color-img4.jpg",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\swatches\\color-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\truck-mini.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\truck-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\truck.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\truck.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\warranty.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\warranty.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\images\\worldwide.png",
+      "PackagePath": "staticwebassets\\user\\assets\\images\\worldwide.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\lazysizes.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\lazysizes.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\vendor\\instagram-feed.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\vendor\\instagram-feed.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\vendor\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\vendor\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\vendor\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\vendor\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\vendor\\masonry.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\vendor\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\vendor\\modernizr-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\vendor\\modernizr-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\vendor\\photoswipe-ui-default.min.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\vendor\\photoswipe-ui-default.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\vendor\\photoswipe.min.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\vendor\\photoswipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\Ecommerce\\EcommerceWeb\\wwwroot\\user\\assets\\js\\vendor\\wow.min.js",
+      "PackagePath": "staticwebassets\\user\\assets\\js\\vendor\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EcommerceWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EcommerceWeb.props",
+      "PackagePath": "build\\EcommerceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceWeb.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EcommerceWeb.props",
+      "PackagePath": "buildTransitive\\EcommerceWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

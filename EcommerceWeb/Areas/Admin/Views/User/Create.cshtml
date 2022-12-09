@@ -1,0 +1,67 @@
+﻿@model ApplicationUserVM
+
+@{
+    ViewData["Title"] = "Create User";
+}
+
+
+<div id="content" class="container-fluid">
+    <div class="card">
+        <div class="card-header font-weight-bold">
+            Thêm người dùng
+        </div>
+        <div class="card-body">
+            <div class="text-danger" asp-validation-summary="All"></div>
+            <form method="post" asp-area="admin" asp-controller="user" asp-action="create">
+                <div class="form-group">
+                    <label asp-for="ApplicationUserDTO.Fullname"></label>
+                    <input class="form-control" asp-for="ApplicationUserDTO.Fullname">
+                    <span class="text-danger" asp-validation-for="ApplicationUserDTO.Fullname"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ApplicationUserDTO.Email"></label>
+                    <input class="form-control" asp-for="ApplicationUserDTO.Email">
+                    <span class="text-danger" asp-validation-for="ApplicationUserDTO.Email"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ApplicationUserDTO.Address"></label>
+                    <input class="form-control" asp-for="ApplicationUserDTO.Address">
+                    <span class="text-danger" asp-validation-for="ApplicationUserDTO.Address"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ApplicationUserDTO.Dob"></label>
+                    <input class="form-control" asp-for="ApplicationUserDTO.Dob">
+                    <span class="text-danger" asp-validation-for="ApplicationUserDTO.Dob"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ApplicationUserDTO.PhoneNumber"></label>
+                    <input class="form-control" asp-for="ApplicationUserDTO.PhoneNumber">
+                    <span class="text-danger" asp-validation-for="ApplicationUserDTO.PhoneNumber"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ApplicationUserDTO.Password"></label>
+                    <input class="form-control" asp-for="ApplicationUserDTO.Password">
+                    <span class="text-danger" asp-validation-for="ApplicationUserDTO.Password"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ApplicationUserDTO.ConfirmPassword"></label>
+                    <input class="form-control" asp-for="ApplicationUserDTO.ConfirmPassword">
+                    <span class="text-danger" asp-validation-for="ApplicationUserDTO.ConfirmPassword"></span>
+                </div>
+                <div class="form-group">
+                    <label>Nhóm quyền</label>
+                    <select class="form-control" asp-for="ApplicationUserRole.RoleId" asp-items="@ViewBag.Roles">
+                    </select>
+                    <span class="text-danger" asp-validation-for="ApplicationUserRole.RoleId"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Thêm mới</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}

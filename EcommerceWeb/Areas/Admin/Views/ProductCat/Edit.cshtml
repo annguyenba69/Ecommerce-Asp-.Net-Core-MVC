@@ -1,0 +1,50 @@
+﻿@model ProductCat
+@{
+    ViewData["Title"] = "Edit Product Category";
+}
+
+<div id="content" class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header font-weight-bold d-flex justify-content-between align-items-center">
+                    <h5 class="m-0 ">Chỉnh sửa danh mục sản phẩm</h5>
+                </div>a
+                <div class="card-body">
+                    <form method="post" asp-area="admin" asp-controller="productcat" asp-action="edit">
+                        <input type="hidden" asp-for="Id" />
+                        <input type="hidden" asp-for="ApplicationUserId" />
+                        <div class="form-group">
+                            <label asp-for="Name"></label>
+                            <input class="form-control" type="text" asp-for="Name">
+                            <span class="text-danger" asp-validation-for="Name"></span>
+                        </div>
+                        <div class="form-group">
+                            <label for="">Danh mục cha</label>
+                            <select class="form-control" asp-for="ParentId">
+                                <option value="0">Danh Mục Cha</option>
+                                @foreach (var productCatDataTree in ViewBag.ProductCatsDataTree)
+                                {
+                                    var isSelected = Model.ParentId == productCatDataTree.ProductCat.ParentId ? "selected" : "";
+                                    <option isSelected value="@productCatDataTree.ProductCat.Id">@(string.Join("", Enumerable.Repeat("---/", productCatDataTree.Level)) + productCatDataTree.ProductCat.Name)</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Created"></label>
+                            <input class="form-control" asp-for="Created" disabled>
+                            <span class="text-danger" asp-validation-for="Created"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Cập Nhật</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}

@@ -1,0 +1,99 @@
+﻿@using EcommerceWeb.Areas.Admin.Helpers;
+@model PaginatedList<Slide>
+@{
+    ViewData["Title"] = "List Slide";
+}
+<partial name="~/Areas/Admin/Views/Shared/_Notification.cshtml" />
+<div id="content" class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header font-weight-bold">
+                    Danh sách ảnh Slider
+                </div>
+                <div class="card-body">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">Link</th>
+                                <th scope="col">Ảnh</th>
+                                <th scope="col">Trạng thái</th>
+                                <th scope="col">Người tạo</th>
+                                <th scope="col">
+                                    <a asp-area="admin" asp-controller="slide" asp-action="index"
+                                       asp-route-sortOrder="@ViewData["DateSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Ngày Tạo</a>
+                                </th>
+                                <th scope="col">Tác vụ</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                int index = 0;
+                            }
+                            @foreach(var slide in Model)
+                            {
+                                <tr>
+                                    <th scope="row">@index</th>
+                                    <th>@HelpersString.TruncateString(@slide.Link, 20)</th>
+                                    <td><img src="@slide.ImageUrl" alt="" style="width: 120px"></td>
+                                    <td>
+                                        @if (slide.Status)
+                                        {
+                                            <span class="badge badge-success">Công khai</span>
+                                        }else{
+                                            <span class="badge badge-success">Không công khai</span>
+                                        }
+                                    </td>
+                                    <td>@slide.ApplicationUser.Fullname</td>
+                                    <td>@slide.Created.ToString("dd/MM/yyyy")</td>
+                                    <td>
+                                        <form class="d-inline" method="post" asp-area="admin" asp-controller="slide" asp-action="edit" asp-route-id="@slide.Id">
+                                            @if (slide.Status)
+                                            {
+                                                <button class="btn btn-success btn-sm rounded-0 text-white" type="submit" data-toggle="tooltip" data-placement="top" title="Change Status"><i class="fas fa-check"></i></button>
+                                            }
+                                            else
+                                            {
+                                                <button class="btn btn-danger btn-sm rounded-0 text-white" type="submit" data-toggle="tooltip" data-placement="top" title="Change Status"><i class="fas fa-check"></i></button>
+                                            }
+
+                                        </form>
+                                        <form class="d-inline" method="post" asp-area="admin" asp-controller="slide" asp-action="delete" asp-route-id="@slide.Id">
+                                            <button class="btn btn-danger btn-sm rounded-0 text-white" type="submit" data-toggle="tooltip" data-placement="top" title="Delete"><i class="fa fa-trash"></i></button>
+                                        </form>
+                                    </td>
+                                </tr>
+                                index++;
+                            }
+                        </tbody>
+                    </table>
+                    @{
+                        var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+                        var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+                    }
+
+                    <div class="text-right">
+                        <a asp-action="Index"
+                           asp-route-sortOrder="@ViewData["CurrentSort"]"
+                           asp-route-pageNumber="@(Model.PageIndex - 1)"
+                           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                           asp-route-status="@ViewData["Status"]"
+                           class="btn btn-primary @prevDisabled">
+                            Previous
+                        </a>
+                        <a asp-action="Index"
+                           asp-route-sortOrder="@ViewData["CurrentSort"]"
+                           asp-route-pageNumber="@(Model.PageIndex + 1)"
+                           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                           asp-route-status="@ViewData["Status"]"
+                           class="btn btn-primary @nextDisabled">
+                            Next
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

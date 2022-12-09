@@ -1,0 +1,127 @@
+﻿@model PaginatedList<Order>
+@{
+    ViewData["Title"] = "List Order";
+}
+<partial name="~/Areas/Admin/Views/Shared/_Notification.cshtml" />
+<div id="content" class="container-fluid">
+    <div class="card">
+        <div class="card-header font-weight-bold d-flex justify-content-between align-items-center">
+            <h5 class="m-0 ">Danh sách đơn hàng</h5>
+            <div class="form-search">
+                <form method="get" asp-area="admin" asp-controller="order" asp-action="index" class="form-inline">
+                    <input type="text" name="searchString" class="form-control form-search" placeholder="Tìm kiếm">
+                    <input type="submit" name="btn-search" value="Tìm kiếm" class="btn btn-primary">
+                </form>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="analytic">
+                <a asp-area="admin" asp-controller="order" asp-action="index" class="text-primary">Toàn Bộ<span class="text-muted">(@ViewData["CountTotal"])</span></a>
+                @foreach (var orderStatus in ViewBag.OrderStatuses)
+                {
+                    <a asp-area="admin" asp-controller="order" asp-action="index" asp-route-orderStatusId="@orderStatus.Id" class="text-primary">@orderStatus.Name<span class="text-muted">(@orderStatus.Orders.Count)</span></a>
+                }
+            </div>
+            <table class="table table-striped table-checkall mt-3">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Mã</th>
+                        <th scope="col">
+                            <a asp-area="admin" asp-controller="order" asp-action="index"
+                               asp-route-sortOrder="@ViewData["NameSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Khách Hàng</a>
+                        </th>
+                        <th scope="col">Số Điện Thoại</th>
+                        <th scope="col">Tổng Giá Trị</th>
+                        <th scope="col">Trạng Thái</th>
+                        <th scope="col">Thanh Toán</th>
+                        <th scope="col">
+                            <a asp-area="admin" asp-controller="order" asp-action="index"
+                               asp-route-sortOrder="@ViewData["DateSortParm"]" asp-route-currentFilter="@ViewData["CurrentFilter"]">Ngày Tạo</a>
+                        </th>
+                        <th>Hành Động</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int index = 0;
+                    }
+                    @foreach (var order in Model)
+                    {
+                        <tr class="">
+                            <td>@index</td>
+                            <td>@order.Id</td>
+                            <td>@order.ApplicationUser.Fullname</td>
+                            <td>@order.ApplicationUser.PhoneNumber</td>
+                            <td>
+                                @{ double total = 0;}
+                                @foreach (var orderProduct in order.OrderProducts)
+                                {
+                                        total += orderProduct.Total;   
+                                }
+                                $@total.ToString("0.00")
+                            </td>
+                            <td>
+                                @if (order.OrderStatusId == 1)
+                                {
+                                    <span class="badge badge-danger">@order.OrderStatus.Name</span>
+                                }
+                                else if (order.OrderStatusId == 2)
+                                {
+                                    <span class="badge badge-warning">@order.OrderStatus.Name</span>
+                                }
+                                else if(order.OrderStatusId == 3)
+                                {
+                                    <span class="badge badge-success">@order.OrderStatus.Name</span>
+                                }else{
+                                    <span class="badge badge-dark">@order.OrderStatus.Name</span>
+                                }
+                            </td>
+                                <th scope="col">
+                                @if (order.PaymentStatus)
+                                {
+                                    <span class="badge badge-success">True</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-danger">False</span>
+                                }
+                                </th>
+                            <td>@order.Created.ToString("dd/MM/yyyy")</td>
+                            <td>
+                                <a asp-area="admin" asp-controller="order" asp-action="detail" asp-route-id="@order.Id" class="btn btn-success btn-sm rounded-0 text-white" type="button" data-toggle="tooltip" data-placement="top" title="Edit"><i class="fas fa-eye"></i></a>
+                                <form class="d-inline" method="post" asp-area="admin" asp-controller="order" asp-action="delete" asp-route-id="@order.Id">
+                                    <button class="btn btn-danger btn-sm rounded-0 text-white" type="submit" data-toggle="tooltip" data-placement="top" title="Delete"><i class="fa fa-trash"></i></button>
+                                </form>
+                            </td>
+                        </tr>
+                        index++;
+                    }
+                </tbody>
+            </table>
+            @{
+                var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+                var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+            }
+
+            <div class="text-right">
+                <a asp-action="Index"
+                   asp-route-sortOrder="@ViewData["CurrentSort"]"
+                   asp-route-pageNumber="@(Model.PageIndex - 1)"
+                   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                   asp-route-orderStatusId="@ViewData["Status"]"
+                   class="btn btn-primary @prevDisabled">
+                    Previous
+                </a>
+                <a asp-action="Index"
+                   asp-route-sortOrder="@ViewData["CurrentSort"]"
+                   asp-route-pageNumber="@(Model.PageIndex + 1)"
+                   asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                   asp-route-orderStatusId="@ViewData["Status"]"
+                   class="btn btn-primary @nextDisabled">
+                    Next
+                </a>
+            </div>
+        </div>
+    </div>
+</div>

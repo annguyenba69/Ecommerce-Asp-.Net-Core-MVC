@@ -1,0 +1,130 @@
+﻿@using Ecommerce.Models;
+@model PaginatedList<Product>
+
+
+    <!--Collection Banner-->
+    <div class="collection-header">
+        <div class="collection-hero">
+            <div class="collection-hero__image"><img class="blur-up ls-is-cached lazyloaded" data-src="/user/assets/images/cat-women2.jpg" src="/user/assets/images/cat-women2.jpg" alt="Women" title="Women"></div>
+            <div class="collection-hero__title-wrapper"><h1 class="collection-hero__title page-width">@ViewData["Title"]</h1></div>
+        </div>
+    </div>
+    <!--End Collection Banner-->
+
+    <div class="container mt-5">
+        <div class="row">
+            <!--Sidebar-->
+            <div class="col-12 col-sm-12 col-md-3 col-lg-3 sidebar filterbar">
+                <div class="closeFilter d-block d-md-none d-lg-none"><i class="icon icon anm anm-times-l"></i></div>
+                <div class="sidebar_tags">
+                    <div class="row mb-3">
+                        <div class="col-12 margin-25px-top">
+                            <button class="btn btn-secondary btn--small">filter</button>
+                        </div>
+                    </div>
+                    <!--Banner-->
+                    <div class="sidebar_widget static-banner">
+                        <img src="/user/assets/images/side-banner-2.jpg" alt="">
+                    </div>
+                    <!--Banner-->
+                    <!--Information-->
+                    <div class="sidebar_widget">
+                        <div class="widget-title"><h2>Information</h2></div>
+                        <div class="widget-content"><p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p></div>
+                    </div>
+                    <!--end Information-->
+
+                </div>
+            </div>
+            <!--End Sidebar-->
+            <!--Main Content-->
+            <div class="col-12 col-sm-12 col-md-9 col-lg-9 main-col">
+                <hr>
+                <div class="productList">
+                    <!--Toolbar-->
+                    <button type="button" class="btn btn-filter d-block d-md-none d-lg-none"> Product Filters</button>
+                    <div class="toolbar">
+                        <div class="filters-toolbar-wrapper">
+                            <div class="row">
+                                <div class="col-4 col-md-4 col-lg-4 filters-toolbar__item collection-view-as d-flex justify-content-start align-items-center">
+                                </div>
+                                <div class="col-4 col-md-4 col-lg-4 text-center filters-toolbar__item filters-toolbar__item--count d-flex justify-content-center align-items-center">
+                                    <span class="filters-toolbar__product-count">Showing: @ViewData["CountTotalByProductCatId"]</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Toolbar-->
+                    <div class="grid-products grid--view-items">
+                        <div class="row">
+                            @foreach (var product in Model)
+                            {
+                                <div class="col-6 col-sm-6 col-md-4 col-lg-4 item">
+                                    <!-- start product image -->
+                                    <div class="product-image">
+                                        <!-- start product image -->
+                                        <a href="#">
+                                            <!-- image -->
+                                            <img style="opacity:1" class="primary blur-up lazyloaded" data-src="@product.ImageUrl" src="@product.ImageUrl" alt="image" title="product">
+                                            <!-- End image -->
+                                        </a>
+                                        <!-- end product image -->
+                                        <!-- Start product button -->
+                                        <div class="variants add" action="#" onclick="window.location.href='cart.html'"
+                                          method="post">
+                                            <a asp-controller="cart" asp-action="buy" asp-route-id="@product.Id" class="btn btn-addto-cart" type="button" tabindex="0">
+                                                Add To
+                                                Cart
+                                            </a>
+                                        </div>
+                                        <!-- end product button -->
+                                    </div>
+                                    <!-- end product image -->
+                                    <!--start product details -->
+                                    <div class="product-details text-center">
+                                        <!-- product name -->
+                                        <div class="product-name">
+                                            <a href="#">@product.Name</a>
+                                        </div>
+                                        <!-- End product name -->
+                                        <!-- product price -->
+                                        <div class="product-price">
+                                            <span class="price">$@product.Price.ToString("0.00")</span>
+                                        </div>
+                                        <!-- End product price -->
+                                    </div>
+                                    <!-- End product details -->
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <hr class="clear">
+                @{
+                    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+                    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+                }
+
+                <div class="text-right">
+                    <a asp-action="Index"
+                       asp-route-sortOrder="@ViewData["CurrentSort"]"
+                       asp-route-pageNumber="@(Model.PageIndex - 1)"
+                       asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                       asp-route-status="@ViewData["Status"]"
+                       class="btn btn-primary @prevDisabled">
+                        Previous
+                    </a>
+                    <a asp-action="Index"
+                       asp-route-sortOrder="@ViewData["CurrentSort"]"
+                       asp-route-pageNumber="@(Model.PageIndex + 1)"
+                       asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                       asp-route-status="@ViewData["Status"]"
+                       class="btn btn-primary @nextDisabled">
+                        Next
+                    </a>
+                </div>
+            </div>
+            <!--End Main Content-->
+        </div>
+    </div>
+

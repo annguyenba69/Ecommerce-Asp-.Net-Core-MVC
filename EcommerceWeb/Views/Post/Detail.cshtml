@@ -1,0 +1,42 @@
+﻿@model Post
+
+
+    <!--Page Title-->
+    <div class="page section-header text-center mb-0">
+        <div class="page-title">
+            <div class="wrapper"><h1 class="page-width">Post</h1></div>
+        </div>
+    </div>
+    <!--End Page Title-->
+    <div class="bredcrumbWrap">
+        <div class="container breadcrumbs">
+            <a href="index.html" title="Back to the home page">Home</a><span aria-hidden="true">›</span>
+            <a href="blog-left-sidebar.html" title="Back to News">Post</a><span aria-hidden="true">›</span><span>Post Detail</span>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <!--Main Content-->
+            <div class="col-12 col-sm-12 col-md-12 col-lg-12 main-col">
+                <div class="blog--list-view">
+                    <div class="article">
+                        <!-- Article Image -->
+                        <a class="article_featured-image" href="#">
+                            <img class="blur-up ls-is-cached lazyloaded" data-src="@Model.ImageUrl" src="@Model.ImageUrl" alt="@Model.Title">
+                        </a>
+                        <h1><a href="blog-left-sidebar.html">@Model.Title</a></h1>
+                        <ul class="publish-detail">
+                            <li><i class="anm anm-user-al" aria-hidden="true"></i>@Model.ApplicationUser.Fullname</li>
+                            <li><i class="icon anm anm-clock-r"></i> <time datetime="@Model.Created">@Model.Created</time></li>
+                        </ul>
+                        <div class="rte">
+                           @Html.Raw(Model.Content)
+                        </div>
+                        <hr>
+                    </div>
+                </div>
+            </div>
+            <!--End Main Content-->
+        </div>
+    </div>
+

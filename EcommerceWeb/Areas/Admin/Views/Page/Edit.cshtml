@@ -1,0 +1,41 @@
+﻿@model Page
+@{
+    ViewData["Title"] = "Edit Page";
+}
+
+<div id="content" class="container-fluid">
+    <div class="card">
+        <div class="card-header font-weight-bold d-flex justify-content-between align-items-center">
+            <h5 class="m-0 ">Chỉnh sửa trang</h5>
+        </div>
+        <div class="card-body">
+            <form asp-area="admin" asp-controller="page" asp-action="edit" method="post">
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="ApplicationUserId" />
+                <input type="hidden" asp-for="Created" />
+                <div class="form-group">
+                    <label asp-for="Name"></label>
+                    <input class="form-control" type="text" asp-for="Name">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+                <div class="form-group">
+                    <label for="content">Nội dung bài viết</label>
+                    <textarea asp-for="Content" class="form-control" id="content" cols="100" rows="5"></textarea>
+                    <span class="text-danger" asp-validation-for="Content"></span>
+                </div>
+                <div class="form-group form-check">
+                    <label asp-for="Status"></label>
+                    <input class="form-check-input ml-3" asp-for="Status">
+                    <span class="text-danger" asp-validation-for="Status"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Cập Nhật</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}

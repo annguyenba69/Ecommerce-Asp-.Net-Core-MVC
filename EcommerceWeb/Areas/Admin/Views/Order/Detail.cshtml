@@ -1,0 +1,101 @@
+﻿@model Order
+
+<div id="content" class="container-fluid">
+    <div class="card">
+        <div class="card-header font-weight-bold d-flex justify-content-between align-items-center">
+            <h5 class="m-0 py-4">Thông tin đơn hàng</h5>
+        </div>
+        <div class="card-body">
+            <h5 class="mb-3">Thông tin khách hàng</h5>
+            <table class="table table-striped table-checkall">
+                <thead>
+                    <tr>
+                        <th scope="col">Mã đơn hàng</th>
+                        <th scope="col">Họ và tên</th>
+                        <th scope="col">Số điện thoại</th>
+                        <th scope="col">Địa chỉ</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Phương Thức Thanh Toán</th>
+                        <th scope="col">Thời gian đặt hàng</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.Id</td>
+                        <td>@Model.ApplicationUser.Fullname</td>
+                        <td>@Model.ApplicationUser.PhoneNumber</td>
+                        <td>@Model.Address</td>
+                        <td>@Model.ApplicationUser.Address</td>
+                        <td>@Model.PaymentMethod.Name</td>
+                        <td>@Model.Created.ToString("dd/MM/yyyy")</td>
+                    </tr>
+                </tbody>
+            </table>
+            <form asp-area="admin" asp-controller="order" asp-action="edit" asp-route-id="@Model.Id" method="POST">
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="Address" />
+                <input type="hidden" asp-for="Note" />
+                <input type="hidden" asp-for="Created" />
+                <input type="hidden" asp-for="ApplicationUserId" />
+                <input type="hidden" asp-for="PaymentMethodId" />
+                <h5 class="mt-4 mb-3">Tình trạng Thanh Toán</h5>
+                <div class="form-group form-check">
+                    <label>Thanh Toán</label>
+                    <input class="form-check-input ml-3" asp-for="PaymentStatus">
+                    <span class="text-danger" asp-validation-for="PaymentStatus"></span>
+                </div>
+                <div class="form-group">
+                    <h5 class="mt-4 mb-3">Tình trạng đơn hàng</h5>
+                    <input type="hidden" name="_token" value="zJ4Hitl2UhqphsJjL4WLNI58NPz3mKFTFX2k5oLE">                <div class="col-4 pl-0">
+                        <select class="custom-select" asp-for="OrderStatusId">
+                            @foreach (var oderStatus in ViewBag.OrderStatuses)
+                            {
+                                <option value="@oderStatus.Id">@oderStatus.Name</option>
+                            }
+                        </select>
+                        <input type="submit" value="Cập nhật" name="btn-submit" class="btn btn-primary mt-3">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="card mt-5">
+        <div class="card-header font-weight-bold d-flex justify-content-between align-items-center">
+            <h5 class="m-0 py-4">Chi tiết đơn hàng</h5>
+        </div>
+        <div class="card-body">
+            <table class="table table-striped table-checkall">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Ảnh</th>
+                        <th scope="col">Tên sản phẩm</th>
+                        <th scope="col">Giá</th>
+                        <th scope="col">Số lượng</th>
+                        <th scope="col">Thành tiền</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int index = 0;
+                        double totalOrder = 0;
+                    }
+                    @foreach (var orderProduct in Model.OrderProducts)
+                    {
+                        <tr>
+                            <td>@index</td>
+                            <td><img src="@orderProduct.Product.ImageUrl" alt="" style="width: 120px"></td>
+                            <td>@orderProduct.Product.Name</td>
+                            <td>$@orderProduct.Product.Price.ToString("0.00")</td>
+                            <td>@orderProduct.Quantity</td>
+                            <td>$@orderProduct.Total.ToString("0.00")</td>
+                        </tr>
+                        totalOrder += orderProduct.Total;
+                        index++;
+                    }
+                </tbody>
+            </table>
+            <h5 class="text-right mt-4 text-success">Tổng giá trị đơn hàng: <span>$@totalOrder.ToString("0.00")</span></h5>
+        </div>
+    </div>
+</div>

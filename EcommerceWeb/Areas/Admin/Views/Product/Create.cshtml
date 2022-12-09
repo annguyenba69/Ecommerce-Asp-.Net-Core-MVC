@@ -1,0 +1,70 @@
+﻿@model ProductVM
+@{
+    ViewData["Title"] = "Create Product";
+}
+
+<div id="content" class="container-fluid">
+    <div class="card">
+        <div class="card-header font-weight-bold">
+            Thêm sản phẩm
+        </div>
+        <div class="card-body">
+            <div asp-validation-summary="All"></div>
+            <form enctype="multipart/form-data" method="post" asp-area="admin" asp-controller="product" asp-action="create">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="form-group">
+                            <label asp-for="Product.Name"></label>
+                            <input class="form-control" asp-for="Product.Name">
+                            <span class="text-danger" asp-validation-for="Product.Name"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Product.Price"></label>
+                    <input class="form-control" type="text" asp-for="Product.Price">
+                    <span class="text-danger" asp-validation-for="Product.Price"></span>
+                </div>
+                <div class="form-group">
+                    <div class="form-group">
+                        <label asp-for="Product.Description"></label>
+                        <textarea asp-for="Product.Description"></textarea>
+                        <span class="text-danger" asp-validation-for="Product.Description"></span>
+                    </div>
+                </div>
+                <div class="form-group form-check">
+                    <label asp-for="Product.StatusPublic"></label>
+                    <input class="form-check-input ml-3" asp-for="Product.StatusPublic">
+                    <span class="text-danger" asp-validation-for="Product.StatusPublic"></span>
+                </div>
+                <div class="form-group form-check">
+                    <label asp-for="Product.StatusWarehouse"></label>
+                    <input class="form-check-input ml-3" asp-for="Product.StatusWarehouse">
+                    <span class="text-danger" asp-validation-for="Product.StatusWarehouse"></span>
+                </div>
+                <div class="form-group">
+                    <label for="">Danh mục</label>
+                    <select class="form-control" asp-for="ProductCatId">
+                        @foreach (var productCatDataTree in ViewBag.ProductCatsDataTree)
+                        {
+                            <option value="@productCatDataTree.ProductCat.Id">@(string.Join("", Enumerable.Repeat("---/", productCatDataTree.Level)) + productCatDataTree.ProductCat.Name)</option>
+                        }
+                    </select>
+                    <span class="text-danger" asp-validation-for="ProductCatId"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Product.ImageUrl"></label>
+                    <input type="file" name="file">
+                    <span class="text-danger" asp-validation-for="Product.ImageUrl"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Thêm mới</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}

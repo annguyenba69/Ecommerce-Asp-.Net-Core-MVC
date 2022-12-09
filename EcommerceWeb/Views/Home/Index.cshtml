@@ -1,0 +1,199 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+    <!--Home slider-->
+    <div class="slideshow slideshow-wrapper pb-section">
+        <div class="home-slideshow">
+            @foreach(var slide in ViewBag.Slides)
+            {
+                <div class="slide">
+                   <a href="@slide.Link" target="_blank">
+                        <div class="blur-up lazyload">
+                        <img class="blur-up lazyload"
+                         data-src="@slide.ImageUrl"
+                         src="@slide.ImageUrl"
+                         alt="@slide.Link" title="Slide" />
+                    </div>
+                   </a>
+                </div>
+            }
+        </div>
+    </div>
+    <!--End Home slider-->
+    <!--Weekly Bestseller-->
+    <div class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="section-header text-center">
+                        <h2 class="h2">Newest Products</h2>
+                        <p>New products just hit the market</p>
+                    </div>
+                    <div class="productSlider grid-products">
+                        @foreach (var product in ViewBag.NewestProducts)
+                        {
+                            <div class="col-12 item">
+                                <!-- start product image -->
+                                <div class="product-image">
+                                    <!-- start product image -->
+                                    <a asp-controller="product" asp-action="detail" asp-route-id="@product.Id" class="grid-view-item__link">
+                                        <!-- image -->
+                                        <img class="primary blur-up lazyload" style="opacity:1; height:200px"
+                                         data-src="@product.ImageUrl"
+                                         src="@product.ImageUrl" alt="image"
+                                         title="product">
+                                        <!-- End image -->
+                                    </a>
+                                    <!-- end product image -->
+                                    <!-- Start product button -->
+                                    <div class="variants add" action="#" onclick="window.location.href='cart.html'"
+                                      method="post">
+                                        <a asp-controller="cart" asp-action="buy" asp-route-id="@product.Id" class="btn btn-addto-cart"  tabindex="0">
+                                            Add To
+                                            Cart
+                                        </a>
+                                    </div>
+                                    <!-- end product button -->
+                                </div>
+                                <!-- end product image -->
+                                <!--start product details -->
+                                <div class="product-details text-center">
+                                    <!-- product name -->
+                                    <div class="product-name">
+                                        <a asp-controller="product" asp-action="detail" asp-route-id="@product.Id">@product.Name</a>
+                                    </div>
+                                    <!-- End product name -->
+                                    <!-- product price -->
+                                    <div class="product-price">
+                                        <span class="price">$@product.Price.ToString("0.00")</span>
+                                    </div>
+                                    <!-- End product price -->
+                                </div>
+                                <!-- End product details -->
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Weekly Bestseller-->
+    <!--Parallax Section-->
+    <div class="section">
+        <div class="hero hero--large hero__overlay bg-size">
+            <img class="bg-img" src="/user/assets/images/parallax-banners/parallax-banner.jpg" alt="" />
+            <div class="hero__inner">
+                <div class="container">
+                    <div class="wrap-text left text-small font-bold">
+                        <h2 class="h2 mega-title">Belle <br> The best choice for your store</h2>
+                        <div class="rte-setting mega-subtitle">
+                            Retail system of mobile phones, smartphones, tablets, tablets, laptops, accessories, smartwatches, latest genuine watches, good prices
+                        </div>
+                        <a asp-controller="product" asp-action="index" class="btn">Purchase Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Parallax Section-->
+    <!--New Arrivals-->
+    <div class="product-rows section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="section-header text-center">
+                        <h2 class="h2">All Products</h2>
+                        <p>All the hottest products on the market</p>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-products">
+                <div class="row">
+                    @foreach (var product in ViewBag.RandomProducts)
+                    {
+                        <div class="col-6 col-sm-2 col-md-3 col-lg-3 item">
+                            <!-- start product image -->
+                            <div class="product-image">
+                                <!-- start product image -->
+                                <a asp-controller="product" asp-action="detail" asp-route-id="@product.Id" class="grid-view-item__link">
+                                    <!-- image -->
+                                    <img class="primary blur-up lazyload" style="opacity:1; height:200px"
+                                     data-src="@product.ImageUrl"
+                                     src="@product.ImageUrl" alt="image"
+                                     title="product">
+                                    <!-- End image -->
+                                </a>
+                                <!-- end product image -->
+                                <!-- Start product button -->
+                                <div class="variants add" action="#" onclick="window.location.href='cart.html'"
+                                  method="post">
+                                    <a asp-controller="cart" asp-action="buy" asp-route-id="@product.Id" class="btn btn-addto-cart" tabindex="0">
+                                        Add To
+                                        Cart
+                                    </a>
+                                </div>
+                                <!-- end product button -->
+                            </div>
+                            <!-- end product image -->
+                            <!--start product details -->
+                            <div class="product-details text-center">
+                                <!-- product name -->
+                                <div class="product-name">
+                                    <a asp-controller="product" asp-action="detail" asp-route-id="@product.Id">@product.Name</a>
+                                </div>
+                                <!-- End product name -->
+                                <!-- product price -->
+                                <div class="product-price">
+                                    <span class="price">$@product.Price.ToString("0.00")</span>
+                                </div>
+                                <!-- End product price -->
+                            </div>
+                            <!-- End product details -->
+                        </div>
+                    }
+                </div>
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 text-center">
+                        <a asp-controller="product" asp-action="index" class="btn">View all</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Featured Product-->
+    <!--Logo Slider-->
+    <div class="section logo-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="section-header text-center">
+                        <h2 class="h2">The Most Loved Brands</h2>
+                    </div>
+                    <div class="logo-bar">
+                        <div class="logo-bar__item">
+                            <img src="/user/assets/images/logo/brandlogo1.png" alt="" title="" />
+                        </div>
+                        <div class="logo-bar__item">
+                            <img src="/user/assets/images/logo/brandlogo2.png" alt="" title="" />
+                        </div>
+                        <div class="logo-bar__item">
+                            <img src="/user/assets/images/logo/brandlogo3.png" alt="" title="" />
+                        </div>
+                        <div class="logo-bar__item">
+                            <img src="/user/assets/images/logo/brandlogo4.png" alt="" title="" />
+                        </div>
+                        <div class="logo-bar__item">
+                            <img src="/user/assets/images/logo/brandlogo5.png" alt="" title="" />
+                        </div>
+                        <div class="logo-bar__item">
+                            <img src="/user/assets/images/logo/brandlogo6.png" alt="" title="" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Logo Slider-->
+

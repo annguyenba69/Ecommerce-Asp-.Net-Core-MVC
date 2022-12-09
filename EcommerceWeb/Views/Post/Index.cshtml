@@ -1,0 +1,75 @@
+﻿@using EcommerceWeb.Areas.Admin.Helpers;
+@model PaginatedList<Post>
+
+
+    <!--Page Title-->
+    <div class="page section-header text-center mb-0">
+        <div class="page-title">
+            <div class="wrapper"><h1 class="page-width">Post</h1></div>
+        </div>
+    </div>
+    <!--End Page Title-->
+    <div class="bredcrumbWrap">
+        <div class="container breadcrumbs">
+            <a href="index.html" title="Back to the home page">Home</a><span aria-hidden="true">›</span><span>Post</span>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <!--Main Content-->
+            <div class="col-12 col-sm-12 col-md-9 col-lg-9 main-col">
+                <div class="custom-search">
+                    <form asp-controller="post" asp-action="index" method="get" class="input-group search-header search" role="search" style="position: relative;">
+                        <input class="search-header__input search__input input-group__field" type="text" name="searchString" placeholder="Search" aria-label="Search" autocomplete="off">
+                        <span class="input-group__btn"><button class="btnSearch" type="submit"> <i class="icon anm anm-search-l"></i> </button></span>
+                    </form>
+                </div>
+                <div class="blog--list-view">
+                    <div class="row">
+                        @foreach (var post in Model)
+                        {
+                            <div class="col-12 col-sm-12 col-md-4 col-lg-4 article">
+                                <!-- Article Image -->
+                                <a class="article_featured-image" asp-controller="post" asp-action="detail" asp-route-id="@post.Id"><img class="blur-up ls-is-cached lazyloaded" data-src="@post.ImageUrl" src="@post.ImageUrl" alt="It's all about how you wear"></a>
+                                <h2 class="h3"><a href="blog-left-sidebar.html">@post.Title</a></h2>
+                                <ul class="publish-detail">
+                                    <li><i class="anm anm-user-al" aria-hidden="true"></i>@post.ApplicationUser.Fullname</li>
+                                    <li><i class="icon anm anm-clock-r"></i> <time datetime="@post.Created">@post.Created</time></li>
+                                </ul>
+                                <div class="rte">
+                                    <p>@Html.Raw(@HelpersString.TruncateString(post.Content, 200))</p>
+                                </div>
+                                <p><a asp-controller="post" asp-action="detail" asp-route-id="@post.Id" class="btn btn-secondary btn--small">Read more <i class="fa fa-caret-right" aria-hidden="true"></i></a></p>
+                            </div>
+                        }
+                    </div>
+                    <hr>
+                    @{
+                        var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+                        var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+                    }
+
+                    <div class="text-right">
+                        <a asp-action="Index"
+                           asp-route-sortOrder="@ViewData["CurrentSort"]"
+                           asp-route-pageNumber="@(Model.PageIndex - 1)"
+                           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                           asp-route-status="@ViewData["Status"]"
+                           class="btn btn-primary @prevDisabled">
+                            Previous
+                        </a>
+                        <a asp-action="Index"
+                           asp-route-sortOrder="@ViewData["CurrentSort"]"
+                           asp-route-pageNumber="@(Model.PageIndex + 1)"
+                           asp-route-currentFilter="@ViewData["CurrentFilter"]"
+                           asp-route-status="@ViewData["Status"]"
+                           class="btn btn-primary @nextDisabled">
+                            Next
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!--End Main Content-->
+        </div>
+    </div>
+

@@ -1,0 +1,32 @@
+﻿@model PostCat;
+@{
+    ViewData["Title"] = "Create PostCat";
+}
+
+<div id="content" class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header font-weight-bold d-flex justify-content-between align-items-center">
+                    <h5 class="m-0 ">Thêm mới danh mục bài viết</h5>
+                </div>
+                <div class="card-body">
+                    <form method="post" asp-area="admin" asp-controller="postcat" asp-action="create">
+                        <div class="form-group">
+                            <label asp-for="Name"></label>
+                            <input class="form-control" type="text" asp-for="Name">
+                            <span class="text-danger" asp-validation-for="Name"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Thêm mới</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial.cshtml" />
+    }
+}
